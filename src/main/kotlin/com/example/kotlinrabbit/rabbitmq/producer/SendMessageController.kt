@@ -1,6 +1,5 @@
 package com.example.kotlinrabbit.rabbitmq.producer
 
-import com.example.kotlinrabbit.rabbitmq.RabbitMQConfiguration
 import org.springframework.amqp.rabbit.core.RabbitTemplate
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestParam
